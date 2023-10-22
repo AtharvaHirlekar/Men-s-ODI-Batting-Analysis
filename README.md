@@ -22,4 +22,4 @@ The project uses Python's data visualization libraries, such as Matplotlib, to c
 - Runs scored against different oppositions
 - Matches played by year
 - Runs scored by year
--Career average progression by innings
+- Career average progression by innings
