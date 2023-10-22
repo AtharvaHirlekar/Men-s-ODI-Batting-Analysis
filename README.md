@@ -1,5 +1,5 @@
 **ODI Batting Analysis Project**
-#D
+
 **Overview**
 
 This Python project is designed for the analysis of One Day International (ODI) cricket batting statistics. It involves web scraping data from ESPNCricinfo to gather a comprehensive dataset of ODI batting performance. The analysis includes various aspects such as a player's career statistics, performance in World Cup tournaments, bowlers with the most dismissals against a specific batter, and data visualization using line charts and bar charts to depict various statistics.
